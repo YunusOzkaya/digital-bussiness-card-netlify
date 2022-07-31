@@ -1,4 +1,4 @@
-#You can check the app on netlify link down below;
+# You can check the app on netlify link down below;
 
 https://yunusozkayakart.netlify.app/
 
